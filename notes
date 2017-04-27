@@ -1,0 +1,16 @@
+
+
+// adds your files current changes to staging (does not really do anything yet, this is for committing)
+git add [file name]
+
+// this will push your current staged changes to your local machine
+git commit -m "my message here"
+
+// this will push your changes to git, and will update the remote code with your changes 
+git push [remote] [branch]
+
+// give me the changes on my origin branch 
+git pull
+
+
+
