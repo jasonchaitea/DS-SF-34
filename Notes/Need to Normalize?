@@ -1,0 +1,21 @@
+k-NN 
+    Yes! It is distance based
+    
+Linear Regression
+    No
+
+Logistice Regression
+    No
+    
+Regularization
+    Yes! It is distance based
+        Lambda, Beta, 1 and 2 penalty
+
+PCA - Principal Component Analysis
+    No scaling
+    
+k-Mean
+    Yes! It is distance based
+    
+Random Forest
+    No, you do not need to
